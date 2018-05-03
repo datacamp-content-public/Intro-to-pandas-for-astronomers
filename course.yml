@@ -1,4 +1,8 @@
-title: Course Title Here
-description: A description of the course.
+title: Introduction to python pandas for astronomers
+description: This tutorial will give a basic introduction to the pandas library. 
+This lesson is adapted from the [Data Carpentry Ecology lesson](http://www.datacarpentry.org/python-ecology-lesson/). 
+To work through this lesson we assume that you already have some basic understanding of python.
+If you haven't worked with python before, or would like a refresher please check out this [notebook](https://github.com/ADACS-Australia/Face-to-Face/blob/master/ANITA_Hobart_FEB2017/scripts/Intro_to_python_pandas.ipynb).
+The notebook covers, file input/output, DataFrames and exploring your data, calculating basic stats, visualisations with pandas.
 programming_language: python
 from: python-base-prod:21
